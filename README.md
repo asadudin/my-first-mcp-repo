@@ -9,6 +9,8 @@ Hello wonderful humans and robots! 👋 This is my very first repository created
 * 🎨 Random emojis everywhere
 * 🌺 Just spreading joy
 
+## 🔧 New in This Version
+This version we added Filesystem, GitHub, and Brave Search MCP Servers.
 ## 📚 Purpose and Usage
 This repository is a fun and experimental project aimed at spreading joy and creativity. While it currently serves as a playful space, future updates may introduce new features or content. Stay tuned!
 
